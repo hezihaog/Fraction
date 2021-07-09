@@ -1,0 +1,3 @@
+rootProject.name = "Fraction"
+include ':app'
+include ':fraction'
